@@ -1,0 +1,125 @@
+
+scratchoff_egg_01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 759, 283
+  size: 206, 47
+  orig: 206, 47
+  offset: 0, 0
+  index: -1
+broken_01
+  rotate: false
+  xy: 602, 34
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+broken_02
+  rotate: false
+  xy: 863, 134
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+broken_03
+  rotate: true
+  xy: 967, 283
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+egg_01
+  rotate: true
+  xy: 903, 176
+  size: 105, 119
+  orig: 105, 119
+  offset: 0, 0
+  index: -1
+egg_02
+  rotate: true
+  xy: 759, 332
+  size: 155, 216
+  orig: 155, 216
+  offset: 0, 0
+  index: -1
+egg_03
+  rotate: true
+  xy: 514, 178
+  size: 120, 202
+  orig: 120, 202
+  offset: 0, 0
+  index: -1
+egg_04
+  rotate: false
+  xy: 2, 2
+  size: 246, 170
+  orig: 246, 170
+  offset: 0, 0
+  index: -1
+egg_all
+  rotate: false
+  xy: 2, 174
+  size: 251, 313
+  orig: 251, 313
+  offset: 0, 0
+  index: -1
+egg_light_1
+  rotate: true
+  xy: 539, 300
+  size: 187, 218
+  orig: 187, 218
+  offset: 0, 0
+  index: -1
+egg_light_2
+  rotate: false
+  xy: 705, 17
+  size: 156, 149
+  orig: 156, 149
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 602, 75
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: true
+  xy: 433, 14
+  size: 162, 167
+  orig: 162, 167
+  offset: 0, 0
+  index: -1
+light_3
+  rotate: false
+  xy: 255, 46
+  size: 176, 142
+  orig: 176, 142
+  offset: 0, 0
+  index: -1
+scorpion
+  rotate: true
+  xy: 255, 190
+  size: 133, 257
+  orig: 133, 257
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 255, 325
+  size: 282, 162
+  orig: 282, 162
+  offset: 0, 0
+  index: -1
+white_01
+  rotate: false
+  xy: 718, 168
+  size: 183, 113
+  orig: 183, 113
+  offset: 0, 0
+  index: -1

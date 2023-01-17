@@ -1,0 +1,62 @@
+
+jiugongge_ball.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_1
+  rotate: false
+  xy: 141, 53
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+green_2
+  rotate: false
+  xy: 232, 53
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+green_3
+  rotate: false
+  xy: 323, 55
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+img_ball_01
+  rotate: false
+  xy: 334, 146
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+img_ball_02
+  rotate: false
+  xy: 238, 146
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+img_ball_03
+  rotate: false
+  xy: 2, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+light_ball_1
+  rotate: false
+  xy: 141, 144
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+light_ball_2
+  rotate: false
+  xy: 2, 100
+  size: 137, 140
+  orig: 137, 140
+  offset: 0, 0
+  index: -1

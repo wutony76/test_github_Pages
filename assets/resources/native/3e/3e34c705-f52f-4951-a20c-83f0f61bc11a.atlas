@@ -1,0 +1,20 @@
+
+bonus_neonlight.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 64, 45
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

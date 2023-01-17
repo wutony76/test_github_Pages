@@ -1,0 +1,83 @@
+
+jiugongge_kick.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball_1
+  rotate: false
+  xy: 648, 179
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+ball_2
+  rotate: true
+  xy: 560, 29
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+bg_a
+  rotate: true
+  xy: 2, 219
+  size: 289, 513
+  orig: 289, 513
+  offset: 0, 0
+  index: -1
+bg_b
+  rotate: false
+  xy: 818, 201
+  size: 173, 307
+  orig: 173, 307
+  offset: 0, 0
+  index: -1
+big_light_a
+  rotate: true
+  xy: 517, 219
+  size: 58, 103
+  orig: 58, 103
+  offset: 0, 0
+  index: -1
+big_light_white
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+boy
+  rotate: true
+  xy: 517, 279
+  size: 229, 299
+  orig: 229, 299
+  offset: 0, 0
+  index: -1
+light_01
+  rotate: true
+  xy: 560, 91
+  size: 126, 86
+  orig: 126, 86
+  offset: 0, 0
+  index: -1
+light_02
+  rotate: false
+  xy: 312, 12
+  size: 246, 205
+  orig: 246, 205
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 993, 442
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+white_1
+  rotate: true
+  xy: 2, 44
+  size: 173, 308
+  orig: 173, 308
+  offset: 0, 0
+  index: -1
